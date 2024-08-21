@@ -9,6 +9,7 @@ A collection of interactive dashboards for visualizing and analyzing data trends
 - [Dashboards](#dashboards)
   - [Netflix Dashboard](#netflix-dashboard)
   - [Amazon Prime Dashboard](#amazon-prime-dashboard)
+  - [Disney+ Hotstar](#disney+-hotstar-dashboard)
 - [Installation](#installation)
 - [Contributing](#contributing)
 
@@ -22,6 +23,19 @@ A collection of interactive dashboards for visualizing and analyzing data trends
 - **Customizable Layouts**: Tailor each dashboard to fit specific needs and preferences.
 - **Real-time Data**: Option to integrate real-time data for up-to-date insights.
 - **Cross-Platform Compatibility**: Dashboards are accessible on different devices and screen sizes.
+
+## Getting Started
+
+1. **Install Power BI Desktop**: [Download Power BI Desktop](https://powerbi.microsoft.com/desktop) and install it on your machine.
+2. **Connect to Data Sources**: Import data from various sources like SQL Server, Excel, or cloud-based services.
+3. **Create Visualizations**: Use Power BI’s drag-and-drop interface to create interactive visuals.
+4. **Publish Reports**: Publish your reports to the Power BI service for online access and sharing.
+
+## Datasets
+
+1. **Netflix Dataset Used**: [Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+2. **Amazon Prime Dataset Used**: [Amazon Prime Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+3. **Disney+ Hotstar Dataset Used**: [Disney+ Hotstar Dataset](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 
 ## Dashboards
 
