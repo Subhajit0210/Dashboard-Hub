@@ -1,4 +1,4 @@
-# DashboardHub
+# Dashboard-Hub
 
 A collection of interactive dashboards for visualizing and analyzing data trends and key metrics. This repository includes custom-built dashboards for popular streaming platforms like Netflix and Amazon Prime Video. Each dashboard provides deep insights into content performance, user engagement, and other important metrics.
 
@@ -10,14 +10,11 @@ A collection of interactive dashboards for visualizing and analyzing data trends
   - [Netflix Dashboard](#netflix-dashboard)
   - [Amazon Prime Dashboard](#amazon-prime-dashboard)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
-**DashboardHub** provides a set of interactive and user-friendly dashboards that allow users to explore, analyze, and visualize data from various streaming services. These dashboards are built with the latest technologies and can be easily customized to fit different data sets and use cases.
+**Dashboard-Hub** provides a set of interactive and user-friendly dashboards that allow users to explore, analyze, and visualize data from various streaming services. These dashboards are built with the latest technologies and can be easily customized to fit different data sets and use cases.
 
 ## Features
 
@@ -67,7 +64,7 @@ To use these dashboards locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd DashboardHub
+    cd Dashboard-Hub
     ```
 
 3. Install the required dependencies:
@@ -75,26 +72,6 @@ To use these dashboards locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. Run the application:
-    ```bash
-    python app.py
-    ```
-
-## Usage
-
-After running the application, you can access the dashboards locally through your web browser at `http://localhost:5000`. Use the navigation menu to switch between the Netflix and Amazon Prime dashboards.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes. For major changes, please open an issue to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please reach out to:
-
-- **Email**: yourname@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
