@@ -1,6 +1,6 @@
 # Dashboard-Hub
 
-A collection of interactive dashboards for visualizing and analyzing data trends and key metrics. This repository includes custom-built dashboards for popular streaming platforms like Netflix and Amazon Prime Video. Each dashboard provides deep insights into content performance, user engagement, and other important metrics.
+A collection of interactive dashboards for visualizing and analyzing data trends and key metrics. This repository includes custom-built dashboards for popular streaming platforms like Netflix, Amazon Prime Video and Disney+ Hotstar. Each dashboard provides deep insights into content performance, user engagement, and other important metrics.
 
 ## Table of Contents
 
