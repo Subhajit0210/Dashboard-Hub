@@ -41,7 +41,7 @@ A collection of interactive dashboards for visualizing and analyzing data trends
 
 ### Netflix Dashboard
 
-![Netflix Dashboard](./mnt/data/netflix%20dashboard.png)
+[Click here to see the Netflix Dashboard](https://github.com/Subhajit0210/Dashboard-Hub/blob/main/dashboards/netflix%20dashboard.png)
 
 The Netflix Dashboard provides comprehensive insights into Netflix’s vast library, offering detailed visualizations on various aspects such as:
 
@@ -55,7 +55,7 @@ This dashboard is perfect for understanding content distribution, popular genres
 
 ### Amazon Prime Dashboard
 
-![Amazon Prime Dashboard](./mnt/data/amazon%20prime%20dashboard.png)
+[Click here to see the Amazon Prime Dashboard](https://github.com/Subhajit0210/Dashboard-Hub/blob/main/dashboards/amazon%20prime%20dashboard.png)
 
 The Amazon Prime Dashboard offers an in-depth analysis of Amazon Prime Video’s content, providing insights into:
 
@@ -66,6 +66,20 @@ The Amazon Prime Dashboard offers an in-depth analysis of Amazon Prime Video’s
 - **Total Shows by Country**: A geographic representation of the countries contributing content to Amazon Prime.
 
 This dashboard is ideal for gaining insights into content availability, genre popularity, and the geographical distribution of content on Amazon Prime Video.
+
+### Disney+ Hotstar Dashboard
+
+[Click here to see the Disney+ Hotstar Dashboard](https://github.com/Subhajit0210/Dashboard-Hub/blob/main/dashboards/disney%20dashboard.png)
+
+The Disney+ Hotstar Dashboard provides comprehensive insights into Disney+ Hotstar vast library, offering detailed visualizations on various aspects such as:
+
+- **Total Titles**: An overview of the number of titles available on Disney+ Hotstar.
+- **Genres by Titles**: Breakdown of genres by the number of titles in each category.
+- **Movies & TV Shows by Year**: Historical data showing the release trend over the years.
+- **Movies vs TV Shows**: Distribution of movies and TV shows.
+- **Top 10 Countries by Movies & TV Shows**: A visualization of the countries contributing the most content.
+
+This dashboard is ideal for gaining insights into content availability, genre popularity, and the geographical distribution of content on Disney+ Hotstar.
 
 ## Installation
 
